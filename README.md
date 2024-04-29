@@ -1,4 +1,4 @@
-# Market-Segmentation-Fast-Food-Mcdonalds
+# Market-Segmentation-Fast Food-Mcdonalds
 Fast Food Market Segmentation: McDonald's Analysis
 This project aims to perform market segmentation analysis in the fast-food industry, focusing particularly on McDonald's. Market segmentation is crucial for understanding the diverse customer base and tailoring marketing strategies accordingly. By leveraging data analytics and machine learning techniques, this repository explores different segmentation approaches to uncover valuable insights about McDonald's customers and their preferences.
 
